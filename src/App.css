@@ -51,6 +51,7 @@ main {
 	height: 100%;
 	top: 0;
 	right: -16px;
+	width: 16px;
 }
 
 .item .addItem:hover {
